@@ -1,2 +1,2 @@
 # Photo-Portfolio-
-<img src="Screen.png">
+<img src="Photo-Portfolio-/Screen.PNG">
